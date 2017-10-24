@@ -1,0 +1,82 @@
+.contenedor{
+	width: 610px;
+	height: 505px;
+	position: absolute;
+	top: 300px;
+}
+.arriba{
+	width:610px; ;
+	height:50px;
+	border: 1px solid black;
+	border-bottom: none;
+	background-color: #ffd740;
+}
+.antes{
+	width:170px;
+	height:450px;
+	border:1px solid black;
+	float: right;
+}
+.monopoly{
+	width:270px; ;
+	height:450px;
+	border: 1px solid black;
+	border-left: none;
+	float:left;
+}
+.monopoly h1,h3,h2{
+	text-align:center;
+}
+p{
+	text-align: justify;
+	margin: 30px;
+	font-size:small;
+}
+.abajo p{
+	text-align: center;
+	font-size:medium;
+}
+.ahora{
+	width:170px; ;
+	height:450px; ;
+	border:1px solid black ;
+	border-left: none;
+	float: right;
+}
+.abajo{
+	width:610px; ;
+	height:30px;
+	border: 1px solid black;
+	background-color: #ffd740;
+	border-top: none;
+	clear:both;
+}
+.monopoly1{
+	width:100px ;
+	height: 100px;
+	margin: 20px;
+	position: absolute;
+	left: 458px;
+	top:496px;
+}
+.monopoly2{
+	width:100px;
+	height:100px;
+	margin-left: 20px;
+	position: absolute;
+	left: 50px;
+	top:512px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
